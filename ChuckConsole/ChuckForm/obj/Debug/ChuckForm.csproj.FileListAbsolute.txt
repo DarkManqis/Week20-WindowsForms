@@ -1,0 +1,13 @@
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.exe.config
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.exe
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.pdb
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csprojAssemblyReference.cache
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.Form1.resources
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.Properties.Resources.resources
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.GenerateResource.cache
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.CopyComplete
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.exe
+C:\Users\kasutaja\source\repos\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.pdb
